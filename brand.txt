@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "6674311352b2241cef2e908f",
+        "name": "Le zebi ",
+        "description": "Description détaillée du flipper zebi, un super flipper sa mere",
+        "flippers": [],
+        "__v": 0
+    },
+    {
+        "_id": "6674312d52b2241cef2e9091",
+        "name": "SEGA ",
+        "description": "Posé dans l'appart avec des folles",
+        "flippers": [],
+        "__v": 0
+    },
+    {
+        "flippers": [],
+        "_id": "66743549424d8871ac84d227",
+        "name": "SEGA ",
+        "description": "Posé dans l'appart avec des folles",
+        "__v": 0
+    },
+    {
+        "_id": "66743c50e0e7724d622bedf5",
+        "name": "test ",
+        "description": "Et oui les amis, moi aussi j'aime bethoven",
+        "flippers": [],
+        "__v": 0
+    }
+]
