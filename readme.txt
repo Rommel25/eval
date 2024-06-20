@@ -1,27 +1,3 @@
-flippers:
-name: string
-description: string
-quote: string
-price: Srtring
-state: string
-brand: IBrand
-release_date: Date
-grade: float
-pictures[]: Images
-new: bool
-hearth: bool
-aviability: string
-
-
-marques:
-name: string
-description: string
-logo: Image
-flippers[]: Flippers
-
-Images: 
-path_file: String (base64)
-
 Explication du model:
 
 les flippers ont un nom avec un grande description et une citation. Il y a un prix -> string car il peut
